@@ -14,6 +14,7 @@ I love the way the CODE keyboard does _media keys_ and wanted to mimic it on my 
 | Menu + Delete    | Previous     |
 | Menu + End       | Next         |
 | Menu + Page Down | Volume Down  |
+| Menu + Pause     | Volume Mute  |
 
 ## Instructions
 1. Install [AutoHotkey](https://autohotkey.com/)
