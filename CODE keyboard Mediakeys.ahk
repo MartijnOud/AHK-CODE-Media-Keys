@@ -1,6 +1,6 @@
 ; Recreats the media keys found on CODE keyboards
 ; You might need to replace "Appskey" (menu key) with "RAlt" or "AltGr" depending on your keyboard
-; v1.1.0
+; v1.1.1
 
 ; Menu key + Insert = Play/Pause
 Appskey & Insert::
@@ -27,7 +27,7 @@ Appskey & End::
 Send {Media_Next}
 return
 
-; Menu key + Page Down = Down up
+; Menu key + Page Down = Volume down
 Appskey & Pgdn::
 Send {Volume_Down}
 return
