@@ -1,4 +1,4 @@
-A# AHK CODE Mediakeys
+# AHK CODE Mediakeys
 ![https://codekeyboards.com/](https://codekeyboards.com/img/multimedia_bg.jpg)
 [AutoHotkey](https://autohotkey.com/) script to mimic the media keys of the [CODE keyboard](https://codekeyboards.com/). I love the way the CODE keyboard does _media keys_ and wanted to mimic it on my home setup.
 
