@@ -1,10 +1,9 @@
-# AHK CODE Mediakeys
-[AutoHotkey](https://autohotkey.com/) script to mimic the media keys of the [CODE keyboard](https://codekeyboards.com/).
-
-I love the way the CODE keyboard does _media keys_ and wanted to mimic it on my home setup.
+A# AHK CODE Mediakeys
+![https://codekeyboards.com/](https://codekeyboards.com/img/multimedia_bg.jpg)
+[AutoHotkey](https://autohotkey.com/) script to mimic the media keys of the [CODE keyboard](https://codekeyboards.com/). I love the way the CODE keyboard does _media keys_ and wanted to mimic it on my home setup.
 
 ## Key rebinds
-- `Appskey` is the menu key right next to the right `Ctrl` key
+- `Appskey` is the menu key right next to the right `Ctrl` key. Depending on your keyboard you might need to change this to `RAlt` or `AltGr`
 
 |                  |     Media    |
 |:----------------:|:------------:|
