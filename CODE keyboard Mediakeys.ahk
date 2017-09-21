@@ -1,6 +1,10 @@
 ; Recreats the media keys found on CODE keyboards
 ; You might need to replace "Appskey" (menu key) with "RAlt" or "AltGr" depending on your keyboard
-; v1.1.1
+; v1.1.2
+
+#NoEnv
+#SingleInstance force
+#NoTrayIcon
 
 ; Menu key + Insert = Play/Pause
 Appskey & Insert::
